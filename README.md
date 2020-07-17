@@ -7,5 +7,5 @@
 - 💬 Want to achieve more in CP
 - 📫 How to reach me:Linkedin - 
 - 😄 Pronouns: He/His
--
+
 
