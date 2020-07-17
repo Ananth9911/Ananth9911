@@ -5,7 +5,7 @@
 - ⚡ Positions : Microsoft Student Partner(β)
 - 🌱 I’m currently learning MERN Stack
 - 💬 Want to achieve more in CP
-- 👯 I am proficient in C,C++, Python , PHP, HTML, CSS etc.
+- 👯 I am proficient in C,C++, Python,JS,PHP,HTML,CSS
 - 💻 I have developed few projects based on Machine Learning and Web Devlopment.
 - 📫 How to reach me: [Linkedin - @ananthj43](https://www.linkedin.com/in/ananthj43) 
 - 😄 Pronouns: He/His
