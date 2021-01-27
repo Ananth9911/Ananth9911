@@ -1,7 +1,7 @@
    Hola, I'm Ananth! 👋
 
 
-- 🔭 I’m currently working with Uptricks Pvt Ltd. as Machine Learning intern
+- 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
 - ⚡ Positions : Microsoft Student Partner(β)
 - 🌱 I’m currently learning MERN Stack
 - 💬 Want to achieve more in CP
