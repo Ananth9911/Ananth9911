@@ -1,4 +1,4 @@
-   Hola, I'm Ananth! 👋
+   # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola, I'm Ananth!
 
 
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
