@@ -3,11 +3,10 @@
 
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
 - ⚡ Positions : Microsoft Student Partner(β)
-- 👯 I am proficient in C,C++, Python,JS,PHP,HTML,CSS
-- 💻 I have developed few projects based on Machine Learning and Web Devlopment.
-- 📫 How to reach me: [Linkedin - @ananthj43](https://www.linkedin.com/in/ananthj43) 
+- 💻 I am interseted in projects based on Machine Learning and Web Devlopment.
+- 📫 How to reach me: <p align="left"> <a href="https://www.linkedin.com/in/ananthj43/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> 
 - 😄 Pronouns: He/His
-- 🚀 My Portfolio - [Website](https://ananth9911.github.io/Ananth-Porfolio/)
+- 🚀 My Portfolio - <p align="left"> <a href="https://ananth9911.github.io/Ananth-Porfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&&labelColor=red" /></a> </p> 
 
 #### 💻 Tech Stack at which I am good
 
