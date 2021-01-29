@@ -3,13 +3,54 @@
 
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
 - ⚡ Positions : Microsoft Student Partner(β)
-- 🌱 I’m currently learning MERN Stack
-- 💬 Want to achieve more in CP
 - 👯 I am proficient in C,C++, Python,JS,PHP,HTML,CSS
 - 💻 I have developed few projects based on Machine Learning and Web Devlopment.
 - 📫 How to reach me: [Linkedin - @ananthj43](https://www.linkedin.com/in/ananthj43) 
 - 😄 Pronouns: He/His
 - 🚀 My Portfolio - [Website](https://ananth9911.github.io/Ananth-Porfolio/)
-<img src="https://github-readme-stats.vercel.app/api?username=Ananth9911&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![HitCount](http://hits.dwyl.com/Ananth9911/Ananth9911.svg)](http://hits.dwyl.com/Ananth9911/Ananth9911)
+#### 💻 Tech Stack at which I am good
+
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/ height="25">
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/ height="25">
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" height="25>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Machine Learning-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)" height="25"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+#### 💻 Tech Stack which I am currently learning 
+<p align="center">
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+#### ⭐  Statistics and Languages
+
+ <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Ananth9911&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Ananth9911" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth9911&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Ananth9911" height="165" />
+ </p>
+ 
+ #### ⭐  Competitve Programming Ratings (Want to get better in this part 😄)
+ <p>
+ 
+ <img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/defender_43&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400"/>
+ 
+ <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/defender_43&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400"/>
+ 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ananth9911j&label=Profile%20views&color=0e75b6&style=flat" alt="Ananth9911" /> </p>
