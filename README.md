@@ -11,3 +11,5 @@
 - 😄 Pronouns: He/His
 - 🚀 My Portfolio - [Website](https://ananth9911.github.io/Ananth-Porfolio/)
 <img src="https://github-readme-stats.vercel.app/api?username=Ananth9911&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[![HitCount](http://hits.dwyl.com/Ananth9911/Ananth9911.svg)](http://hits.dwyl.com/Ananth9911/Ananth9911)
