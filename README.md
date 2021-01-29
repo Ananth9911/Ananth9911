@@ -1,13 +1,14 @@
    # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola, I'm Ananth!
 
+<p align="left"> <a href="https://drive.google.com/file/d/1KP-Wy94oGTDiSR5hWvcgj62geGuJpfvm/view?usp=sharing" target="blank"><img src=https://img.shields.io/badge/MyResume-blue?style=for-the-badge&&labelColor=blue"/></a> </p> 
 
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
 - ⚡ Positions : Microsoft Student Partner(β)
 - 💻 I am interseted in projects based on Machine Learning and Web Devlopment.
-- 📫 How to reach me: <p align="left"> <a href="https://www.linkedin.com/in/ananthj43/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> 
-- 😄 Pronouns: He/His
+- 📫 How to reach me **ananthj43@gmail.com**
+- ⚡ Only other social media platform where I will be active 😉 <p align="left"> <a href="https://www.linkedin.com/in/ananthj43/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> 
 - 🚀 My Portfolio - <p align="left"> <a href="https://ananth9911.github.io/Ananth-Porfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&&labelColor=red" /></a> </p> 
-
+- 😄 Pronouns: He/His
 #### 💻 Tech Stack at which I am good
 
 <p align="center">
@@ -44,7 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth9911&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Ananth9911" height="165" />
  </p>
  
- #### ⭐  Competitve Programming Ratings (Want to get better in this part 😄)
+ #### ⭐  Competitve Programming Ratings (Want to get better in this part 😄....All suggestions are accepted)
  <p>
  
  <img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/defender_43&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400"/>
