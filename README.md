@@ -1,9 +1,9 @@
    # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola, I'm Ananth!
 
+
 <p align="left"> <a href="https://drive.google.com/file/d/1KP-Wy94oGTDiSR5hWvcgj62geGuJpfvm/view?usp=sharing" target="blank"><img src=https://img.shields.io/badge/MyResume-blue?style=for-the-badge&&labelColor=blue"/></a> </p> 
    
    
-- ### :technologist: I am currently pursuing my Undergraduation from SRM University-AP 
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
 - ⚡ Positions : Microsoft Student Partner(β)
 - 💻 I am interseted in projects based on Machine Learning and Web Devlopment.
