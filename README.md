@@ -48,9 +48,11 @@
  #### ⭐  Competitve Programming Ratings (Want to get better in this part 😄....All suggestions are accepted)
  <p>
  
- <img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/defender_43&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400"/>
+ [![Badge](https://cp-logo.vercel.app/codechef/defender_43)]
+(https://www.codechef.com/users/defender_43)
  
- <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/defender_43&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400"/>
+ [![Badge](https://cp-logo.vercel.app/codeforces/defender_43)]
+(https://codeforces.com/profile/defender_43)
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ananth9911j&label=Profile%20views&color=0e75b6&style=flat" alt="Ananth9911" /> </p>
