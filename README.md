@@ -53,4 +53,4 @@
  [![Badge](https://cp-logo.vercel.app/codeforces/defender_43)](https://codeforces.com/profile/defender_43)
 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ananth9911j&label=Profile%20views&color=0e75b6&style=flat" alt="Ananth9911" /> </p>
+#### ⭐ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ananth9911j&label=Profile%20views&color=0e75b6&style=flat" alt="Ananth9911" /> </p>
