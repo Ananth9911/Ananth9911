@@ -46,11 +46,11 @@
  </p>
  
  #### ⭐  Competitve Programming Ratings (Want to get better in this part 😄....All suggestions are accepted)
- <p>
+ <p align="center">
  
  [![Badge](https://cp-logo.vercel.app/codechef/defender_43)](https://www.codechef.com/users/defender_43)
  
  [![Badge](https://cp-logo.vercel.app/codeforces/defender_43)](https://codeforces.com/profile/defender_43)
- 
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ananth9911j&label=Profile%20views&color=0e75b6&style=flat" alt="Ananth9911" /> </p>
