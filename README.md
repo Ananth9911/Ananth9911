@@ -5,6 +5,7 @@
    
    
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
+- 💻 I am currently 3 🌟@Codechef and there is still more to achieve
 - ⚡ Positions : Microsoft Student Partner(β)
 - 💻 I am interseted in projects based on Machine Learning and Web Devlopment.
 - 📫 How to reach me **ananthj43@gmail.com**
@@ -40,10 +41,12 @@
 
 #### ⭐  Statistics and Languages
 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Ananth9911&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Ananth9911" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth9911&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Ananth9911" height="165" />
- </p>
+### 📊 Github Stats
+<a href='https://github.com/Ananth9911/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Ananth9911/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Ananth9911/github-stats-transparent/output/generated/languages.svg)
+ </a>
  
  #### ⭐  Competitve Programming Ratings (Want to get better in this part 😄....All suggestions are accepted)
  <p align="center">
