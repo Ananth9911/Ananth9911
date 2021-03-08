@@ -1,7 +1,7 @@
    # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola, I'm Ananth!
 
 
-<p align="left"> <a href="https://drive.google.com/file/d/1KP-Wy94oGTDiSR5hWvcgj62geGuJpfvm/view?usp=sharing" target="blank"><img src=https://img.shields.io/badge/MyResume-blue?style=for-the-badge&&labelColor=blue"/></a> </p> 
+<p align="left"> <a href="https://drive.google.com/file/d/1RuLbkvi33ryqtFomrA8HHORG_VX376ZN/view?usp=sharing"/></a> </p> 
    
    
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
