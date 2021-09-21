@@ -5,7 +5,7 @@
    
    
 - 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
-- 💻 I am currently 3 🌟@Codechef and there is still more to achieve
+- 💻 I am currently 4 🌟@Codechef and there is still more to achieve
 - ⚡ Positions : Microsoft Student Partner(β)
 - 💻 I am interseted in projects based on Machine Learning and Web Development.
 - 📫 How to reach me **ananthj43@gmail.com**
