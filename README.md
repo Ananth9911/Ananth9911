@@ -1,7 +1,5 @@
    # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola, I'm Ananth!
 
-
-<p align="left"> <a href="https://drive.google.com/file/d/1ze2OVlHSY8STYZ-pivK4lf-3iDUWiAoG/view?usp=sharing" target="blank"><img src=https://img.shields.io/badge/MyResume-blue?style=for-the-badge&&labelColor=blue"/></a> </p> 
    
    
 - ⚡ Software Engineer - 1
