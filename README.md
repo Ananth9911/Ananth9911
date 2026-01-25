@@ -4,9 +4,8 @@
 <p align="left"> <a href="https://drive.google.com/file/d/1ze2OVlHSY8STYZ-pivK4lf-3iDUWiAoG/view?usp=sharing" target="blank"><img src=https://img.shields.io/badge/MyResume-blue?style=for-the-badge&&labelColor=blue"/></a> </p> 
    
    
-- 🔭 I worked with Uptricks Pvt Ltd. as Machine Learning intern
+- ⚡ Software Engineer - 1
 - 💻 I am currently 4 🌟@Codechef 
-- ⚡ Positions : Microsoft Student Partner(β)
 - 💻 I am interseted in projects based on Machine Learning and Web Development.
 - 📫 How to reach me **ananthj43@gmail.com**
 - ⚡ Only other social media platform where I will be active 😉 <p align="left"> <a href="https://www.linkedin.com/in/ananthj43/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> 
