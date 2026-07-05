@@ -18,7 +18,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/SQL-4479A1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/>
