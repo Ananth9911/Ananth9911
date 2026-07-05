@@ -3,7 +3,6 @@
 - ⚡ **Software Engineer** — backend-focused, building scalable systems
 - 🛠️ Working across **Backend Development, Data Engineering, DSA, LLD & HLD**
 - ☁️ **Google Cloud Certified** — Professional Data Engineer
-- 🎯 Currently deep in system design & interview prep, targeting strong product-based / FAANG teams
 - 📫 Reach me at **ananthj43@gmail.com**
 - 😄 Pronouns: He/His
 
