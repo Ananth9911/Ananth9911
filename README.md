@@ -67,7 +67,7 @@
 I build my own tooling to run a disciplined interview-prep operation — spaced repetition, pattern tracking, and design practice, all on a self-hosted stack (GitHub Pages + Google Sheets + Apps Script).
 
 - 🧠 **[SRS Review Engine](https://ananth9911.github.io/daily-coding-log/review.html)** — SM-2 spaced repetition for DSA, with trigger/move pattern encoding for active recall
-- ⚡ **[Problem Engine](https://ananth9911.github.io/daily-coding-log/problem_engine.html)** — variation-based DSA practice with FAANG-calibrated difficulty mixing
+- ⚡ **[Problem Engine](https://ananth9911.github.io/daily-coding-log/problem_engine.html)** — variation-based DSA practice with calibrated difficulty mixing
 - 🏗️ **[LLD Tracker](https://ananth9911.github.io/daily-coding-log/lld_tracker.html)** — low-level design study log across machine-coding case studies
 - 📅 **[Prep Dashboard](https://ananth9911.github.io/daily-coding-log/dashboard.html)** — the hub tying the whole system together
 - 🎨 **[Portfolio](https://ananth9911.github.io/Ananth-Porfolio/)** — my personal site
